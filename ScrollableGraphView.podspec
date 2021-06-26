@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-s.name             = "ScrollableGraphView"
+s.name             = "ScrollableGraphViewZ"
 s.version          = "4.0.6"
 s.summary          = "Scrollable graph view for iOS"
 s.description      = "An adaptive scrollable graph view for iOS to visualise simple discrete datasets. Written in Swift."
